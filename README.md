@@ -276,7 +276,7 @@ The game follows **Object-Oriented Programming** principles:
 
 ### Project Links
 - 
-- 🎥 [Video Demo] https://youtu.be/i7BESeV61c0 
+- 🎥 [Video Demo] https://youtu.be/bZjMKJbl3mE 
 - 🌐 [Play Online] https://github.com/engracheal/brick-breaker-game/tree/main
 - 💻 [Source Code] (https://github.com/engracheal/brick-breaker-game/tree/main)
 
